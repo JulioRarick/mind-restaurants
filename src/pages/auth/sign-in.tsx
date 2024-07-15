@@ -11,9 +11,7 @@ export function SignIn() {
       <div className="p-8">
         <div className="flex w-80 flex-col justify-center gap-6">
           <div className="flex flex-col gap-2 text-center">
-            <h1 className="text-2xl font-semibold tracking-tighter">
-              Acessar Painel
-            </h1>
+            <h1 className="text-2xl font-semibold tracking-tighter">Painel</h1>
             <p className="text-sm text-muted-foreground">
               Acompanhe suas vendas pelo painel do parceiro
             </p>
