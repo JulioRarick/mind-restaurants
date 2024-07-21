@@ -12,6 +12,11 @@ const COLORS = [
   colors.violet[500],
   colors.emerald[500],
   colors.rose[500],
+  colors.cyan[500],
+  colors.red[500],
+  colors.purple[500],
+  colors.green[500],
+  colors.orange[500],
 ]
 
 export function PopularProductsChart() {
